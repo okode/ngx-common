@@ -28,7 +28,7 @@ Add `@okode/ngx-common` path to your `tsconfig.json` file:
 
 ```json
 "paths": {
-  "@mapfre/services": [
+  "@okode/ngx-common": [
     "node_modules/@okode/ngx-common/src"
   ]
 }
